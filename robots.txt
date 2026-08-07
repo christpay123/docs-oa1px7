@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://notes-84cezw.keitaro-tech-rtb.online/sitemap.xml
